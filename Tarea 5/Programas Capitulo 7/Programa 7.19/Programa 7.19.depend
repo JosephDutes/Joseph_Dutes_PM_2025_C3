@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1761086245 source:c:\users\lenovo\documents\tareas pm\programas capitulo 7\programa 7.19\main.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+
